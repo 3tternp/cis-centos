@@ -1,6 +1,5 @@
 # centos-cis-benchmark
 Based on CIS CentOS Linux 7 Benchmark
-v2.2.0 - 12-27-2017
 
 ## How to run the audit
 To run the audit, execute these steps
