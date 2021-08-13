@@ -7,7 +7,7 @@ To run the audit, execute these steps
 ```bash
 git clone https://github.com/massyn/centos-cis-benchmark
 cd centos-cis-benchmark
-sudo bash run-cis-benchmark.sh
+sudo bash centos-cis-check.sh
 ```
 The following tests must be executed manually.  These are dependent on your own site configuration, and needs a manual check.  By default, the audit scripts will fail these checks.
 
