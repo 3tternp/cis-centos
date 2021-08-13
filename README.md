@@ -5,6 +5,7 @@ Based on CIS CentOS Linux 7 Benchmark
 To run the audit, execute these steps
 
 ```bash
+
 git clone https://github.com/3tternp/cis-centos
 cd cis-centos
 sudo bash centos-cis-check.sh
