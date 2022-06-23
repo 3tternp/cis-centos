@@ -92,14 +92,6 @@ if [[ $(whoami) != "root" ]]; then
 fi
 
 echo "CIS CentOS Linux Benchmark"
- echo"                                                                                               " 
- echo"  _|_|_|  _|_|_|    _|_|_|        _|_|_|  _|_|_|_|  _|      _|  _|_|_|_|_|    _|_|      _|_|_|  "
- echo"_|          _|    _|            _|        _|        _|_|    _|      _|      _|    _|  _|     "   
-echo" _|          _|      _|_|        _|        _|_|_|    _|  _|  _|      _|      _|    _|    _|_| "   
-echo" _|          _|          _|      _|        _|        _|    _|_|      _|      _|    _|        _|"  
-echo"   _|_|_|  _|_|_|  _|_|_|          _|_|_|  _|_|_|_|  _|      _|      _|        _|_|    _|_|_| "   
-echo"                                                                                                 "
-echo"                                                                                                 "
 echo
 echo hostname : `hostname`
 echo time     : `date`
